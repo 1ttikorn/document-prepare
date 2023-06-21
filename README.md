@@ -18,6 +18,10 @@
 12. PHP Intelephense
 13. Prettier-Code formatter
 14. IntelliCode
+15. node-snippets
+16. Path Intellisense
+17. Git Graph
+18. Start git-bash
 ```
 
 ### Settings
@@ -29,3 +33,12 @@
 ```bash
 1. 
 ```
+
+<h3 align="left">2. ติดตั้งส่วนขยาย Chrome&nbsp;&nbsp;<a href="https://chrome.google.com/webstore/category/extensions">เว็บสโตร์</a></h3>
+
+คุณสามารถติดตั้งส่วนขยายของ Chrome ลงบน Microsoft Edge ได้โดยการเปิดหน้าเว็บสโตร์บน Edge ได้เช่นกัน
+
+```bash
+1. 
+```
+
