@@ -1,5 +1,5 @@
 # :computer: เตรียมตัวก่อนเริ่ม
-<h3 align="left">1. ติดตั้งโปรแกรม Visual Studio Code<a href="https://code.visualstudio.com/">&nbsp;&nbsp;ดาวน์โหลด</a></h3>
+<h3 align="left">1. ติดตั้งโปรแกรม Visual Studio Code&nbsp;&nbsp;<a href="https://code.visualstudio.com/">ดาวน์โหลด</a></h3>
 
 ### Extension lists
 
