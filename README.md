@@ -36,7 +36,7 @@
 
 <h3 align="left">2. ติดตั้งส่วนขยาย Chrome&nbsp;&nbsp;<a href="https://chrome.google.com/webstore/category/extensions">เว็บสโตร์</a></h3>
 
-คุณสามารถติดตั้งส่วนขยายของ Chrome ลงบน Microsoft Edge ได้โดยการเปิดหน้าเว็บสโตร์บน Edge ได้เช่นกัน
+สามารถติดตั้งส่วนขยายของ Chrome ลงบน Microsoft Edge ได้โดยการเปิดหน้าเว็บสโตร์บน Edge
 
 ```bash
 1. 
