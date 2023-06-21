@@ -1,7 +1,19 @@
-# เตรียมตัวก่อนเริ่ม
-<h3 align="left">:computer: ติดตั้งโปรแกรม</h3
+# :computer: เตรียมตัวก่อนเริ่ม
+<h3 align="left">1. ติดตั้งโปรแกรม Visual Studio Code  >>> <a href="https://code.visualstudio.com/">คลิก</a></h3>
 
-1. Install Visual Studio Code
-   install expension
-   1.1 
-3. 
+### Extension lists
+
+```bash
+1. Auto Close Tag
+2. Auto Rename Tag
+3. CSS Peek
+4. Error Lens
+5. ES7 React / Redux / GraphQL / React-Native snippets
+6. Eva Theme
+7. Highlight Matching Tag
+8. Live Server
+9. Path Intellisense
+10. PHP Intelephense
+11. Prettier-Code formatter
+12. vscode-icons
+```
