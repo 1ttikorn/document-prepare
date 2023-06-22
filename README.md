@@ -1,5 +1,7 @@
 # :computer: เตรียมตัวก่อนเริ่ม
-<h3 align="left">1. ติดตั้งส่วนขยาย Chrome&nbsp;&nbsp;<a href="https://chrome.google.com/webstore/category/extensions">เว็บสโตร์</a></h3>
+<h3 align="left">1. สมัครสมาชิก Github.com และ Stackoverflow.com</h3>
+
+<h3 align="left">2. ติดตั้งส่วนขยาย Chrome&nbsp;&nbsp;<a href="https://chrome.google.com/webstore/category/extensions">เว็บสโตร์</a></h3>
 
 สามารถติดตั้งส่วนขยายของ Chrome ลงบน Microsoft Edge ได้โดยการเปิดหน้าเว็บสโตร์บน Edge
 
@@ -11,7 +13,7 @@
 ```
 
 
-<h3 align="left">2. ติดตั้งโปรแกรม Visual Studio Code&nbsp;&nbsp;<a href="https://code.visualstudio.com/">ดาวน์โหลด</a></h3>
+<h3 align="left">3. ติดตั้งโปรแกรม Visual Studio Code&nbsp;&nbsp;<a href="https://code.visualstudio.com/">ดาวน์โหลด</a></h3>
 
 ### Extensions
 
