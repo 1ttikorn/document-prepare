@@ -3,9 +3,11 @@
 
 <h3 align="left">2. ติดตั้งส่วนขยาย Chrome&nbsp;&nbsp;<a href="https://chrome.google.com/webstore/category/extensions">เว็บสโตร์</a></h3>
 
-สามารถติดตั้งส่วนขยายของ Chrome ลงบน Microsoft Edge ได้โดยการเปิดหน้าเว็บสโตร์บน Edge
+![1](https://github.com/1ttikorn/document-prepare/assets/38392149/68270c9f-1e94-4427-92fb-257606d4f640)
 
-```bash
+สามารถติดตั้งส่วนขยายของ Chrome ลงบน Microsoft Edge ได้โดยการเปิดหน้าเว็บสโตร์บน Edge เช่นกัน
+
+```html
 - Dimensions  // ใช้วัดขนาดหน้าจอ
 - ColorZilla  // ใช้ดูดสีจากจุดใดก็ได้บนเว็บเบราว์เซอร์
 - Wappalyzer  // เอาไว้ดูว่าใช้อะไรบ้างในการสร้างเว็บที่สนใจ
