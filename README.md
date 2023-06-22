@@ -8,10 +8,10 @@
 สามารถติดตั้งส่วนขยายของ Chrome ลงบน Microsoft Edge ได้โดยการเปิดหน้าเว็บสโตร์บน Edge เช่นกัน
 
 ```html
-- Dimensions  // ใช้วัดขนาดหน้าจอ
-- ColorZilla  // ใช้ดูดสีจากจุดใดก็ได้บนเว็บเบราว์เซอร์
-- Wappalyzer  // เอาไว้ดูว่าใช้อะไรบ้างในการสร้างเว็บที่สนใจ
-- CSSViewer   // เอาไว้ดูโค้ดในส่วน CSS ของแต่ละส่วนประกอบเว็บ
+1. Wappalyzer  // เอาไว้ดูว่าใช้อะไรบ้างในการสร้างเว็บที่สนใจ
+2. ColorZilla  // ใช้ดูดสีจากจุดใดก็ได้บนเว็บเบราว์เซอร์
+3. Dimensions  // ใช้วัดขนาดหน้าจอบนเว็บเบราว์เซอร์
+4. CSSViewer   // เอาไว้ดูโค้ดในส่วน CSS ของแต่ละส่วนประกอบเว็บ
 ```
 
 
@@ -22,22 +22,22 @@
 ![2](https://github.com/1ttikorn/document-prepare/assets/38392149/6b628933-9624-423b-96ca-9785d20dbb00)
 
 ```bash
-- Eva Theme  // เปลี่ยนธีมโปรแกรมให้สวยขึ้น
-- vscode-icons  // เปลี่ยนไอคอนให้แยกแยะไฟล์ง่ายขึ้น
-- Auto Close Tag  // ปิด
-- Auto Rename Tag
-- Highlight Matching Tag
-- Code Spell Checker
-- Error Lens  // แจ้งเตือน
-- CSS Peek
-- Live Server  // สร้างเซิร์ฟเวอร์จำลอง
-- Path Intellisense
-- PHP Intelephense
-- Prettier-Code formatter
-- IntelliCode
-- node-snippets
-- Path Intellisense
-- ES7 React / Redux / GraphQL / React-Native snippets
+1. Eva Theme  // เปลี่ยนธีมโปรแกรมให้สวยขึ้น
+2. vscode-icons  // เปลี่ยนไอคอนให้แยกแยะไฟล์ง่ายขึ้น
+3. Auto Close Tag  // ปิด
+4. Auto Rename Tag
+5. Highlight Matching Tag
+6. Code Spell Checker
+7. Error Lens  // แจ้งเตือน
+8. CSS Peek
+9. Live Server  // สร้างเซิร์ฟเวอร์จำลอง
+10. Path Intellisense
+11. PHP Intelephense
+12. Prettier-Code formatter
+13. IntelliCode
+14. node-snippets
+15. Path Intellisense
+16. ES7 React / Redux / GraphQL / React-Native snippets
 ```
 
 ### Settings
