@@ -19,6 +19,8 @@
 
 ### Extensions
 
+![2](https://github.com/1ttikorn/document-prepare/assets/38392149/6b628933-9624-423b-96ca-9785d20dbb00)
+
 ```bash
 - Eva Theme  // เปลี่ยนธีมโปรแกรมให้สวยขึ้น
 - vscode-icons  // เปลี่ยนไอคอนให้แยกแยะไฟล์ง่ายขึ้น
