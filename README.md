@@ -25,33 +25,41 @@
 ![2](https://github.com/1ttikorn/document-prepare/assets/38392149/6b628933-9624-423b-96ca-9785d20dbb00)
 
 ```bash
-1. Eva Theme  // เปลี่ยนธีมโปรแกรมให้สวยขึ้น
-2. vscode-icons  // เปลี่ยนไอคอนให้แยกแยะไฟล์ง่ายขึ้น
-3. Auto Close Tag  // ปิด
+1. Eva Theme
+2. vscode-icons
+3. Auto Close Tag 
 4. Auto Rename Tag
 5. Highlight Matching Tag
 6. Code Spell Checker
-7. Error Lens  // แจ้งเตือน
+7. Error Lens 
 8. CSS Peek
-9. Live Server  // สร้างเซิร์ฟเวอร์จำลอง
+9. Live Server
 10. Path Intellisense
 11. PHP Intelephense
 12. Prettier-Code formatter
 13. IntelliCode
 14. node-snippets
 15. Path Intellisense
-16. ES7 React / Redux / GraphQL / React-Native snippets
+16. Mintlify Doc Writer
+17. ES7 React / Redux / GraphQL / React-Native snippets
 ```
 
-### 3.2 Settings VS Code
+### 3.2 ตั้งค่าโปรแกรม VS Code
+```bash
+1. ปรับขนาดตัวอักษร = ไปที่ File >> Preferences >> Settings >> Search Settings พิมพ์ font >> Editor: Font Size เลือก 20
+2. ตัดบรรทัดตัวอักษรลงมา = ไปที่ File >> Preferences >> Settings >> Search Settings พิมพ์ wrap >> Editor: Word Wrap เลือก on
+3. บันทึกไฟล์อัตโนมัติ = ไปที่ File >> Preferences >> Settings >> Search Settings พิมพ์ auto save >> Files: Auto Save เลือก afterDelay
+4. จัดระเบียบโค้ด = ไปที่ File >> Preferences >> Settings >> Search Settings พิมพ์ format >> Editor: Format On Save ☑
+5. จับคู่สีวงเล็บ = ไปที่ File >> Preferences >> Settings >> Search Settings พิมพ์ bracket >> Editor: Bracket Pair Colorization ☑
+6. เส้นสีนำสายตา = ไปที่ File >> Preferences >> Settings >> Search Settings พิมพ์ bracket >> Editor › Guides: Bracket Pairs เลือก true
+7. แก้ไขส่วนที่ลิ้งกันให้อัตโนมัติ = ไปที่ File >> Preferences >> Settings >> Search Settings พิมพ์ link editing >> Editor: link editing ☑
+```
+
+### 3.3 Login VS Code
 ```bash
 1. ปรับขนาดตัวอักษร
 ```
 
-### 3.3 Keyboard Shortcuts for VS Code
-```bash
-1. 
-```
 
 
 
