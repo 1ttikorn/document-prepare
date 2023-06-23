@@ -1,4 +1,4 @@
-# :computer: เตรียมตัวก่อนเริ่ม
+# :computer: เตรียมตัวก่อนเริ่มเขียนเว็บ
 <h3 align="left">1. สมัครสมาชิก Github.com และ Stackoverflow.com</h3>
 
 <h3 align="left">2. ติดตั้งส่วนขยาย Chrome&nbsp;&nbsp;<a href="https://chrome.google.com/webstore/category/extensions">เว็บสโตร์</a></h3>
