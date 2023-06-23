@@ -45,14 +45,16 @@
 ```
 
 ### 3.2 ตั้งค่าโปรแกรม VS Code
-```bash
-1. ปรับขนาดตัวอักษร = ไปที่ File >> Preferences >> Settings >> Search Settings "font" >> Editor: Font Size เลือก 20
-2. ตัดบรรทัดตัวอักษรลงมา = ไปที่ File >> Preferences >> Settings >> Search Settings "wrap" >> Editor: Word Wrap เลือก on
-3. บันทึกไฟล์อัตโนมัติ = ไปที่ File >> Preferences >> Settings >> Search Settings "auto save" >> Files: Auto Save เลือก afterDelay
-4. จัดระเบียบโค้ด = ไปที่ File >> Preferences >> Settings >> Search Settings "format" >> Editor: Format On Save ☑
-5. จับคู่สีวงเล็บ = ไปที่ File >> Preferences >> Settings >> Search Settings "bracket" >> Editor: Bracket Pair Colorization ☑
-6. เส้นสีนำสายตา = ไปที่ File >> Preferences >> Settings >> Search Settings "bracket" >> Editor › Guides: Bracket Pairs เลือก true
-7. แก้ไขส่วนที่ลิ้งกันให้อัตโนมัติ = ไปที่ File >> Preferences >> Settings >> Search Settings "link editing" >> Editor: link editing ☑
+```html
+File >> Preferences >> Settings >> Search Settings "..."
+
+1. จับคู่สีวงเล็บ = Search Settings พิมพ์ bracket >> Editor: Bracket Pair Colorization เลือก ☑
+2. จัดระเบียบโค้ด = Search Settings พิมพ์ format >> Editor: Format On Save เลือก ☑
+3. เส้นสีนำสายตา = Search Settings พิมพ์ bracket >> Editor › Guides: Bracket Pairs เลือก true
+4. ปรับขนาดตัวอักษร = Search Settings พิมพ์ font >> Editor: Font Size เลือก 20
+5. บันทึกไฟล์อัตโนมัติ = Search Settings พิมพ์ auto save >> Files: Auto Save เลือก afterDelay
+6. ตัดบรรทัดตัวอักษรลงมา = Search Settings พิมพ์ wrap >> Editor: Word Wrap เลือก on
+7. แก้ไขส่วนที่ลิ้งกันให้อัตโนมัติ = Search Settings พิมพ์ link editing >> Editor: link editing เลือก ☑
 ```
 
 ### 3.3 Login VS Code
