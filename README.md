@@ -17,6 +17,9 @@
 
 <h3 align="left">3. ติดตั้งโปรแกรม Visual Studio Code&nbsp;&nbsp;<a href="https://code.visualstudio.com/">ดาวน์โหลด</a></h3>
 
+![3](https://github.com/1ttikorn/document-prepare/assets/38392149/b34799c3-ca6e-4715-a275-7ac8e54993de)
+
+
 ### Extensions
 
 ![2](https://github.com/1ttikorn/document-prepare/assets/38392149/6b628933-9624-423b-96ca-9785d20dbb00)
