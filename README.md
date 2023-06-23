@@ -44,10 +44,8 @@
 17. ES7 React / Redux / GraphQL / React-Native snippets
 ```
 
-### 3.2 ตั้งค่าโปรแกรม VS Code
+### 3.2 ตั้งค่า File >> Preferences >> Settings >> Search Settings
 ```html
-File >> Preferences >> Settings >> Search Settings "..."
-
 1. จับคู่สีวงเล็บ = Search Settings พิมพ์ bracket >> Editor: Bracket Pair Colorization เลือก ☑
 2. จัดระเบียบโค้ด = Search Settings พิมพ์ format >> Editor: Format On Save เลือก ☑
 3. เส้นสีนำสายตา = Search Settings พิมพ์ bracket >> Editor › Guides: Bracket Pairs เลือก true
@@ -57,10 +55,8 @@ File >> Preferences >> Settings >> Search Settings "..."
 7. แก้ไขส่วนที่ลิ้งกันให้อัตโนมัติ = Search Settings พิมพ์ link editing >> Editor: link editing เลือก ☑
 ```
 
-### 3.3 Login VS Code
-```bash
-1. ปรับขนาดตัวอักษร
-```
+<h3 align="left">3. ติดตั้งโปรแกรม Visual Studio Code&nbsp;&nbsp;<a href="https://code.visualstudio.com/">ดาวน์โหลด</a></h3>
+
 
 
 
