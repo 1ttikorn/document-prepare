@@ -44,15 +44,19 @@
 17. ES7 React / Redux / GraphQL / React-Native snippets
 ```
 
-### 3.2 ตั้งค่า File >> Preferences >> Settings >> Search Settings
+### 3.2 ตั้งค่า File >> Preferences >> Settings >> Search settings
+
+![4](https://github.com/1ttikorn/document-prepare/assets/38392149/f20749bb-1922-4d00-a3eb-a5d71ccb1238)
+
+
 ```html
-1. จับคู่สีวงเล็บ = Search Settings พิมพ์ bracket >> Editor: Bracket Pair Colorization เลือก ☑
-2. จัดระเบียบโค้ด = Search Settings พิมพ์ format >> Editor: Format On Save เลือก ☑
-3. เส้นสีนำสายตา = Search Settings พิมพ์ bracket >> Editor › Guides: Bracket Pairs เลือก true
-4. ปรับขนาดตัวอักษร = Search Settings พิมพ์ font >> Editor: Font Size เลือก 20
-5. บันทึกไฟล์อัตโนมัติ = Search Settings พิมพ์ auto save >> Files: Auto Save เลือก afterDelay
-6. ตัดบรรทัดตัวอักษรลงมา = Search Settings พิมพ์ wrap >> Editor: Word Wrap เลือก on
-7. แก้ไขส่วนที่ลิ้งกันให้อัตโนมัติ = Search Settings พิมพ์ link editing >> Editor: link editing เลือก ☑
+1. จับคู่สีวงเล็บ = Search settings พิมพ์ bracket >> Editor: Bracket Pair Colorization เลือก ☑
+2. จัดระเบียบโค้ด = Search settings พิมพ์ format >> Editor: Format On Save เลือก ☑
+3. เส้นสีนำสายตา = Search settings พิมพ์ bracket >> Editor › Guides: Bracket Pairs เลือก true
+4. ปรับขนาดตัวอักษร = Search settings พิมพ์ font >> Editor: Font Size เลือก 20
+5. บันทึกไฟล์อัตโนมัติ = Search settings พิมพ์ auto save >> Files: Auto Save เลือก afterDelay
+6. ตัดบรรทัดตัวอักษรลงมา = Search settings พิมพ์ wrap >> Editor: Word Wrap เลือก on
+7. แก้ไขส่วนที่ลิ้งกันให้อัตโนมัติ = Search settings พิมพ์ link editing >> Editor: link editing เลือก ☑
 ```
 
 <h3 align="left">4. ติดตั้ง Git&nbsp;&nbsp;<a href="https://git-scm.com/download/win">ดาวน์โหลด</a></h3>
