@@ -20,7 +20,7 @@
 ![3](https://github.com/1ttikorn/document-prepare/assets/38392149/b34799c3-ca6e-4715-a275-7ac8e54993de)
 
 
-### Extensions
+### 3.1 ติดตั้ง Extensions ใน VS Code
 
 ![2](https://github.com/1ttikorn/document-prepare/assets/38392149/6b628933-9624-423b-96ca-9785d20dbb00)
 
@@ -43,12 +43,12 @@
 16. ES7 React / Redux / GraphQL / React-Native snippets
 ```
 
-### Settings
+### 3.2 Settings VS Code
 ```bash
 1. ปรับขนาดตัวอักษร
 ```
 
-### Keyboard Shortcuts for Windows
+### 3.3 Keyboard Shortcuts for VS Code
 ```bash
 1. 
 ```
