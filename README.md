@@ -55,9 +55,9 @@
 7. แก้ไขส่วนที่ลิ้งกันให้อัตโนมัติ = Search Settings พิมพ์ link editing >> Editor: link editing เลือก ☑
 ```
 
-<h3 align="left">3. ติดตั้งโปรแกรม Git&nbsp;&nbsp;<a href="https://git-scm.com/download/win">ดาวน์โหลด</a></h3>
+<h3 align="left">3. ติดตั้ง Git&nbsp;&nbsp;<a href="https://git-scm.com/download/win">ดาวน์โหลด</a></h3>
 
-<h3 align="left">4. ติดตั้งโปรแกรม Node.js&nbsp;&nbsp;<a href="https://nodejs.org/en/download">ดาวน์โหลด</a></h3>
+<h3 align="left">4. ติดตั้ง Node.js&nbsp;&nbsp;<a href="https://nodejs.org/en/download">ดาวน์โหลด</a></h3>
 
 
 
