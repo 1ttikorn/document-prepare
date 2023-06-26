@@ -24,24 +24,25 @@
 
 ![2](https://github.com/1ttikorn/document-prepare/assets/38392149/6b628933-9624-423b-96ca-9785d20dbb00)
 
-```bash
+```html
 1. Eva Theme
-2. vscode-icons
-3. Auto Close Tag 
-4. Auto Rename Tag
-5. Highlight Matching Tag
-6. Code Spell Checker
-7. Error Lens 
-8. CSS Peek
-9. Live Server
-10. Path Intellisense
-11. PHP Intelephense
-12. Prettier-Code formatter
-13. IntelliCode
-14. node-snippets
-15. Path Intellisense
-16. Mintlify Doc Writer
-17. ES7 React / Redux / GraphQL / React-Native snippets
+2. Figma for VS Code
+3. vscode-icons
+4. Auto Close Tag 
+5. Auto Rename Tag
+6. Highlight Matching Tag
+7. Code Spell Checker
+8. Error Lens 
+9. CSS Peek
+10. Live Server
+11. Path Intellisense
+12. PHP Intelephense
+13. Prettier-Code formatter
+14. IntelliCode
+15. node-snippets
+16. Path Intellisense
+17. Mintlify Doc Writer
+18. ES7 React / Redux / GraphQL / React-Native snippets
 ```
 
 ### 3.2 ตั้งค่า File >> Preferences >> Settings >> Search settings
